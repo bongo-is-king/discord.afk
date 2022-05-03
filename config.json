@@ -1,0 +1,15 @@
+{
+    "TOKEN": "",
+
+    "STATUS_ENABLED"   : true,
+    "MESSAGE_ENABLED"  : true,
+
+    "IDLER": {
+           "CONFIG"  : {"STATUS_DELAY": 15},
+           "MESSAGE" : "",
+           "STATUSES": [
+                               "",
+                               ""
+           ]
+    }
+}
